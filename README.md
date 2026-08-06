@@ -4,8 +4,8 @@ A collection of 5 proof-of-concept automations built while completing UiPath Aca
 
 | # | POC | Focus |
 |---|-----|-------|
-| 1 | [POC1](./POC1-name) | Compares employee marks/scores and outputs results |
-| 2 | [POC2](./POC2-name) | Takes symbol(s) as input via dialog, processes and writes results to an output Excel file |
+| 1 | [POC1-employee-marks-comparison](./POC1-employee-marks-comparison) | Compares employee marks/scores and outputs results |
+| 2 | [POC2-symbol-lookup](./POC2-symbol-lookup) | Takes symbol(s) as input via dialog, processes and writes results to an output Excel file |
 | 3 | [POC3-invoice-generator](./POC3-invoice-generator) | Automated invoice generation on invoice-generator.com, with a Tab-key navigation workaround for unreliable selectors |
 | 4 | [POC4-delhi-metro](./POC4-delhi-metro) | Delhi Metro fare/route simulation, hand-authored XAML |
 | 5 | [POC5-vendor-inventory](./POC5-vendor-inventory) | Vendor inventory processing loop with Try/Catch handling, partially converted to REFramework |
