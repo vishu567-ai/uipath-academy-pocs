@@ -15,4 +15,4 @@ Given multiple employees' marks across several subjects/modules for a given week
 - Parameterize the week instead of relying on a fixed structure, if not already done
 
 ## Screenshot / Demo
-See recorded run: bot takes employee names as input, reads the marks workbook, and displays the highest scorer with a per-subject breakdown.
+[Watch demo](./poc1-demo.mp4) — bot takes employee names as input, reads the marks workbook, and displays the highest scorer with a per-subject breakdown.
